@@ -135,15 +135,15 @@ a:hover {
 }
 
 .site-footer {
-  margin-top: 50px;
-  /* margin-bottom: 80px; */
-  /* display: flex; */
-  /* justify-content: flex-end; */
-  /* flex-wrap: wrap; */
-  /* padding: 12px 0; */
-  /* border-width: 3px; */
-  /* border-style: solid none; */
-  /* border-color: #000; */
+  margin-top: 40px;
+   margin-bottom: 30px; 
+   display: flex; 
+   justify-content: center; 
+   flex-wrap: wrap; 
+   padding: 0; 
+   border-width: 3px; 
+   border-style: solid none; 
+   border-color: #fff; 
 }
 
 .site-footer-item {
