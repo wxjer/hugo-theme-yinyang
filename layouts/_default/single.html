@@ -53,12 +53,13 @@
               {{ .Site.Params.postFooterContent | safeHTML }}
             </div>
           </div>
-
+          {{ partial "copyright.html" . }}
           {{ partial "related.html" . }}
-
+          
           {{ if .Site.Params.postAds }}
           <div class="post-ads">{{ .Site.Params.postAds | safeHTML }}</div>
           {{ end }}
+
           <!-- split -->
           <div style="height: 0px;"></div>
           {{ if .Site.Params.disqus }}
