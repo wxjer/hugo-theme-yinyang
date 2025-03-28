@@ -184,10 +184,12 @@ a:hover {
 }
 
 .page-content {
+  font-family:"Noto Sans Simplified Chinese";
   min-height: 60%;
 }
 
 .post-content {
+  font-family:"Noto Sans Simplified Chinese";
   margin-bottom: 50px;
 }
 
