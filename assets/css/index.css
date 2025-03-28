@@ -114,6 +114,7 @@ a:hover {
 /* posts list */
 
 #posts-list {
+  font-family:"Noto Sans Simplified Chinese";
   min-height: 600px;
 }
 
